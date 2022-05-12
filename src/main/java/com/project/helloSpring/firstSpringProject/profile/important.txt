@@ -1,0 +1,4 @@
+W praktyce często tworzy się
+profil developerski, który upraszcza
+uruchamianie aplikacji (np. wykorzystuje
+bazę typu embedded H2 zamiast MySQL).
